@@ -54,8 +54,7 @@ The completed build after I first got it all working.
 ![Alt text](images/FinishedBuild.jpeg?raw=true "Complete Build")
 
 
-Current state of the board with an added encoder. It's set to scroll by default, and on number / symbol layers it becomes volume controller.
-As a bonus I have pressing set to turn on a layer that uses home row mods and disables the outer columns to test out a 3x5_2 layout.
+Current state of the board with an added encoder.
 ![Alt text](images/NewEncoder.jpg?raw=true "Complete Build")
 
 
