@@ -12,7 +12,7 @@ Firmware here: [torch0 qmk firmware and keymap](https://github.com/terryorchard/
 * Assorted heatshrink
 * Whatever servo wire I had laying around
 * A bunch of 1.75 PLA filament
-* EC11 encoder
+* EC11 encoder cut down for a lower profile
 * Hours of my life
 
 # Tools
@@ -59,7 +59,7 @@ Current state of the board with an added encoder.
 
 
 How the encoder is mounted and wired. Flattened out the pins and ran servo wire to the matrix and A | B | ground pins.
-![Alt text](images/Wiring05.jpg?raw=true "Complete Build")
+![Alt text](images/Wiring03.jpg?raw=true "Complete Build")
 
 
 How the wiring started, using 16 gauge copper wire for the rows and columns, with resistors for each row connection.
@@ -69,11 +69,5 @@ How the wiring started, using 16 gauge copper wire for the rows and columns, wit
 Initial wiring for all 4 rows; three for alphas and one for thumbs and later encoder.
 ![Alt text](images/Wiring01.jpeg?raw=true "Row Wiring")
 
-
-Soldered all 12 columns. A bit messy, but functional.
-![Alt text](images/Wiring02.jpeg?raw=true "Column Wiring")
-
-
-Completed wiring and the rest of the minimal "case".
-![Alt text](images/Wiring03.jpeg?raw=true "Complete Wiring")
-
+Completed wiring with all 12 columns and the rest of the minimal "case". Messy, but functional!
+![Alt text](images/Wiring02.jpeg?raw=true "Complete Wiring")
