@@ -44,6 +44,9 @@ The last thing I've added is an encoder that I wired into column 4 row 3 and use
 
 To really call this "done" I'm planning to add an RGB LED to change colour with the layers and a cut acrylic bottom plate so I can still see the wiring but have it be a bit more sturdy and safe from conductive debris.
 
+# Where the magic happens
+![Alt text](images/workbench.jpg?raw=true "Workbench")
+
 # Gallery
 
 This is the 3D CAD of the first version that I printed and built. If I were to rebuild this I would add a hole for the encoder and slots for the sockets so I wouldn't have to drill and dremel them in. Lesson learned.
