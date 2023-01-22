@@ -65,9 +65,8 @@ How the encoder is mounted and wired. Flattened out the pins and ran servo wire 
 ![Alt text](images/Wiring03.jpg?raw=true "Complete Build")
 
 
-How the wiring started, using 16 gauge copper wire for the rows and columns, with resistors for each row connection.
+How the wiring started, using 16 gauge copper wire for the rows and columns, with diodes for each row connection.
 ![Alt text](images/Wiring00.jpeg?raw=true "Copper Rows/Columns")
-
 
 Initial wiring for all 4 rows; three for alphas and one for thumbs and later encoder.
 ![Alt text](images/Wiring01.jpeg?raw=true "Row Wiring")
