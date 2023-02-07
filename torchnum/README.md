@@ -53,8 +53,11 @@ The last thing I need to get figured out is the single RGB LED layer indication.
 
 # Gallery
 
-**These are all three that I made; the skeleton of the first one I drilled and dremeled, my second glow in the dark build, and the final red one for my dad.**
-![Alt text](images/torchnum(7).jpg?raw=true "All together now")
+**These are all three that I made; the skeleton of the first test print I drilled and dremeled, my second glow in the dark build, and the final red one for my dad.**
+![Alt text](images/torchnum(7).jpg?raw=true)
+
+**Fusion 360 screenshot of the CAD.**
+![Alt text](images/CAD.jpg?raw=true)
 
 **Close up of the front of the build.**
 ![Alt text](images/torchnum(1).jpg?raw=true)
