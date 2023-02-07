@@ -1,5 +1,5 @@
 # torchnum
-My second hand-wired "keyboard" design, a different take on a separate numpad / macropad with encoder.
+My second hand-wired "keyboard" design and build: a unique numpad / macropad layout with one encoder and one addressable RGB LED.
 
 Firmware here: [torchnum qmk firmware and keymap](https://github.com/terryorchard/qmk_firmware/tree/master/keyboards/wizrad/torchnum)
 
@@ -35,11 +35,13 @@ Since making the switch to tenkeyless keyboards many years ago, myself and my da
 I have some extra encoders lying around and find them very useful so I threw those in, and put in a single RGB LED for layer indication. I also had seen some copper-only builds floating around that looked awesome, so I wanted a project I could try to do with no soft wires without being overly ambitious.
 
 # How'd it go?
-The layout was pretty simple, just a 4x5 grid with the bottom right key moved up to the encoder push button. I decided not to go with a standard numpad layout, with the large + and 0 keys just so it'd look more unique and have a few extra keys open for programming. The initial CAD was very very simple, but I spent some extra time on the MCU area with hotswap socket slots and a little holder for the encoder. I printed with 100% infill for a little extra weight and durability, although it was definitely overkill the extra print time and filament was worth it.
+The layout was pretty simple, just a 4x5 grid with the bottom right key moved up to the encoder push button. I decided not to go with a standard numpad layout, with the large + and 0 keys just so it'd look more unique and have a few extra keys open for programming. The initial CAD was very very simple, but I spent some extra time on the MCU area with hotswap socket slots and a little holder for the encoder.
 
-The wiring being all copper was a major goal from the start, and was easily my favorite part of the build. I just straightened the wire with a drill + pliers, roughly figured out how much length I'd need for a run, then bent, tested placement, bent, and repeat until it looked like a good fit. Then it was just a matter of heat shrink, tweezers, and patience to get everything soldered in place without any shorts.
+I printed it top-side down in PLA with standard supports everywhere to allow for the MCU cradle and wizard cat logo, at 50mm/s and 0.12mm layer height for detail and tight tolerances. I also went with 100% infill for a little extra weight and durability, although it was definitely overkill the extra print time and filament was worth it, although I think it would be perfectly functional printed faster with 0.2mm layers and much less infill.
 
-I'm really happy with how it came together; using copper wire was a lot more work, but not overly difficult and WAY more aesthetically pleasing IMO. I got some 16 gauge enameled wire for the LED since the pads there are so fine, and it works great... Except for the firmware...
+The wiring being all copper was a major goal from the start, and was easily my favorite part of the build. I just straightened the wire with a drill + pliers, roughly figured out how much length I'd need for a run, then bend with pliers, test placement, bend, and repeat until it looked like a good fit. Then it was just a matter of heat shrink for cross overs, tweezers, and patience to get everything soldered in place without any shorts.
+
+I'm really happy with how it came together; using copper wire was a lot more work, but not overly difficult and WAY more aesthetically pleasing IMO. After working with it for a bit it's quite relaxing and satisfying. I used 16AWG for everything except the LED, which got 22AWG since the pads are so small.
 
 The last thing to really finish it up was the 3mm acrylic bottom plate with a new "logo" for my designs from sendcutsend. Very affordable service, and the extra plate lets me see the wiring but keeps it protected from being moved or shorted, and makes the whole thing feel really premium and complete while adding a touch of extra weight.
 
