@@ -3,6 +3,8 @@ My third hand-wired keyboard design and build: split ergonomic 36-key + two enco
 
 [Build timelapse video!](https://youtu.be/iHv_8P2sFnQ)
 
+[Typing sound test video!](https://youtu.be/g8DxL-B8DD8)
+
 Firmware here: [wizergo qmk firmware and keymap](https://github.com/terryorchard/qmk_firmware/tree/master/keyboards/wizrad/wizergo)
 
 # Parts
@@ -17,6 +19,7 @@ Firmware here: [wizergo qmk firmware and keymap](https://github.com/terryorchard
 * Brass heat-set threaded inserts
 * Metric M2.5 screws 
 * Assorted heat shrink
+* 7g adhesive weheel weights (3 per side)
 * 1.75mm Hatchbox PLA filament
 * EC11 encoders
 * Hours of my life
